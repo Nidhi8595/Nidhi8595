@@ -1,5 +1,5 @@
 # 💫 About Me:
-[Portfolio](https://portfolio-gules-psi-64.vercel.app/)
+[Portfolio](https://portfolio-2b9.pages.dev/)
 👋 Hi, I’m a Computer Science Student Who Learns by Building<br><br>I’m a final-year Computer Science Engineering student exploring the intersection of technology, logic, and creativity. I enjoy turning ideas into functional, well-structured software while continuously improving my problem-solving skills.<br><br>🧠 How I think<br><br>Strong foundation in Data Structures & Algorithms (C++)<br><br>Focused on writing clean, efficient, and scalable code<br><br>Curious about system design and real-world engineering trade-offs<br><br>💻 What I build with<br><br>Frontend: React, JavaScript, TypeScript, HTML, CSS, SCSS, Tailwind<br><br>Backend: Node.js, Express, NestJS, Django REST<br><br>Databases: MongoDB, PostgreSQL, Prisma ORM<br><br>Tools & DevOps: Git, Docker, Vite, Parcel, Firebase, Vercel, Render<br><br>🚀 Currently growing in<br><br>Advanced React state management (Redux)<br><br>Backend architecture & API design<br><br>Deployment workflows and cloud fundamentals<br><br>🤝 Open to<br><br>Entry-level roles, internships, and learning-focused collaborations<br><br>Full-stack projects that prioritize clarity and impact<br><br>✨ Guiding principle<br>Build small. Learn deeply. Improve consistently.
 
 
